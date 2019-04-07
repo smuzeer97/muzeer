@@ -1,9 +1,0 @@
-{
-  "Parameters" : {
-    "DBName" : "wordpressdb",
-    "DBPassword" : "muzeer12345",
-    "DBRootPassword" : "muzeer12345",
-    "DBUser" : "muzeer",    
-    "KeyName" : "ansible"
-  }
-}
